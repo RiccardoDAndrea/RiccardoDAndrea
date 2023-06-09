@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riccardo D'Andrea</h1>
-<h3 align="center">A passionate frontend Data Scientist from Germany</h3>
+<h3 align="center">A passionate Data Scientist from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riccardodandrea&label=Profile%20views&color=0e75b6&style=plastic" alt="riccardodandrea" /> </p>
 
