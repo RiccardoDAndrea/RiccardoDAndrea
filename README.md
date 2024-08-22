@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riccardodandrea&label=Profile%20views&color=0e75b6&style=plastic" alt="riccardodandrea" /> </p>
 
-- 🔭 I’m currently working on a **Streamlit Chatbot with RAG**
+- 🔭 I’m currently working on a **Objection Detection**
 
 - 🌱 I’m currently learning **object detection and classification**
 
