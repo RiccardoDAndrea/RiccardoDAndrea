@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **object detection and classification**
 
-- 💬 Ask me about **everything**
-
 - 📫 How to reach me **riccardo.dandrea@live.de**
 
 <h3 align="left">Connect with me:</h3>
